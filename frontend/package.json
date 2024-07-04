@@ -1,0 +1,20 @@
+{
+  "name": "RGB-Studio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "filepond": "^4.31.1",
+    "nuxt": "^3.11.2",
+    "vue": "^3.4.27",
+    "vue-filepond": "^7.0.4",
+    "vuetify-nuxt-module": "^0.14.0"
+  }
+}
